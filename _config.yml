@@ -1,0 +1,12 @@
+# Site settings
+title: Business Litigation - The Kelly Law Firm
+email: jkelly@businesslitigation.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Kelly Law Firm is recognized as one of the most experienced business litigation and boutique trial law firms in South Florida
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://businesslitigation.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
