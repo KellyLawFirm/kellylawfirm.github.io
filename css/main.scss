@@ -84,6 +84,9 @@ main {
   display: flex;
   flex-direction: row;
   flex-flow: row wrap;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  -webkit-flex-flow: row wrap;
 }
 
 .mauto {
